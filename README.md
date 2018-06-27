@@ -21,10 +21,10 @@
 
 
 ## Flow diagram
-// TODO
+![flow diagram pic](https://github.com/ShanQincheng/Grade-Management-Module/blob/master/images/flow_diagram.png)
 
 ## Running Example
-// TODO
+![running example pic](https://github.com/ShanQincheng/Grade-Management-Module/blob/master/images/running_example.png)
 
 ### License
 
