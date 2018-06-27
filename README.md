@@ -22,7 +22,7 @@
 3. 印输出学生姓名，换行打印输出所有成绩，换行打印输出黑底红字属性的不及格成绩字符串，换行打印输出黑底蓝字属性的及格成绩字符串，换行打印输出平均成绩。
 
 
-## Flow diagram
+## Flow Diagram
 ![flow diagram pic](https://github.com/ShanQincheng/Grade-Management-Module/blob/master/images/flow_diagram.png)
 
 ## Running Example
